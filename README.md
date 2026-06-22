@@ -26,3 +26,20 @@ Superstore Dataset
 
 ### Outcome
 Successfully completed Task 1 and generated actionable business insights from the Superstore dataset.
+## Task 2 - SQL for Data Extraction
+
+### Completed
+
+- Created SQLite Database
+- Connected Python with SQLAlchemy
+- Executed SQL Queries
+- Performed Business Analysis
+- Used Subqueries
+- Used CTEs
+- Used Window Functions
+
+### Files
+
+- task2_sql.ipynb
+- task2_queries.sql
+- database_connection.py
